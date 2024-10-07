@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.nav-font{
+  font-family: "Roboto";
+}
+
+.txt-medium{
+  font-weight: 500;
+  font-family: "Roboto";
+}
+
+.txt-light{
+  font-weight: 300;
+  font-family: "Roboto";
+}
+
+
+.discount{
+  color: #28a745;
+  font-family: "Roboto";
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.price{
+  color: #707070;
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 1px;
+}
+
+.Card-title{
+  color: #000;
+}
+
+.Card-info{
+  color: #707070;
+  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: 300;
+}
+
+
+.border-top{
+  border-top: 1px solid #000;
+}
+
+.cupon {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.active {
+  font-family: "Roboto";
+  font-weight: 400;
+}
